@@ -1,5 +1,6 @@
-## Hi there 👋
+## Learning and Certification
 
+[![DataCamp](https://img.shields.io/badge/DataCamp-Data%20Analyst%20in%20Power%20BI-03EF62?logo=datacamp&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/track/98a862f2bfccbb8d4e6a97b443531b25c7fc27a3?raw=1)
 <!--
 **svrcinon/svrcinon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

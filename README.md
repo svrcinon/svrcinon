@@ -1,6 +1,6 @@
 ## Learning and Certification
 
-[![DataCamp](https://img.shields.io/badge/DataCamp-Data%20Analyst%20in%20Power%20BI-03EF62?logo=datacamp&logoColor=white)](DATA ANALYST IN POWERBI.pdf)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Data%20Analyst%20in%20Power%20BI-03EF62?logo=datacamp&logoColor=white)](./DATA%20ANALYST%20IN%20POWERBI.pdf)
 <!--
 **svrcinon/svrcinon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
